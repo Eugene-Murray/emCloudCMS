@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "oirX1kHX0eK16orsmSVSbNOkQJktfSIcg+1tCZd9dbocN29T8Z2Axb/z2friV51KUJawrAfO8RjTw3uwZxAGSQ==",
+  "success": true,
+  "projectFilePath": "D:\\code\\my_code\\2020\\my_azure\\emCloudCMS\\Stateless1\\Stateless1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eugene\\.nuget\\packages\\microsoft.servicefabric\\7.1.416\\microsoft.servicefabric.7.1.416.nupkg.sha512",
+    "C:\\Users\\Eugene\\.nuget\\packages\\microsoft.servicefabric.data\\4.1.416\\microsoft.servicefabric.data.4.1.416.nupkg.sha512",
+    "C:\\Users\\Eugene\\.nuget\\packages\\microsoft.servicefabric.data.extensions\\4.1.416\\microsoft.servicefabric.data.extensions.4.1.416.nupkg.sha512",
+    "C:\\Users\\Eugene\\.nuget\\packages\\microsoft.servicefabric.data.interfaces\\4.1.416\\microsoft.servicefabric.data.interfaces.4.1.416.nupkg.sha512",
+    "C:\\Users\\Eugene\\.nuget\\packages\\microsoft.servicefabric.diagnostics.internal\\4.1.416\\microsoft.servicefabric.diagnostics.internal.4.1.416.nupkg.sha512",
+    "C:\\Users\\Eugene\\.nuget\\packages\\microsoft.servicefabric.services\\4.1.416\\microsoft.servicefabric.services.4.1.416.nupkg.sha512",
+    "C:\\Users\\Eugene\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.0\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.0.nupkg.sha512",
+    "C:\\Users\\Eugene\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.0\\microsoft.netcore.app.runtime.win-x64.3.1.0.nupkg.sha512",
+    "C:\\Users\\Eugene\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.0\\microsoft.aspnetcore.app.runtime.win-x64.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

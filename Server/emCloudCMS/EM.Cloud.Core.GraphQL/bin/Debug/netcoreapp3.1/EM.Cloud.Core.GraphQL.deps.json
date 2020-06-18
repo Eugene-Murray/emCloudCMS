@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EM.Cloud.Core.GraphQL/1.0.0": {
+        "runtime": {
+          "EM.Cloud.Core.GraphQL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EM.Cloud.Core.GraphQL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

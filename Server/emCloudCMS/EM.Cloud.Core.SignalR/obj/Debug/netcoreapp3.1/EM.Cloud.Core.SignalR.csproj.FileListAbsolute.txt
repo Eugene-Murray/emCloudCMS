@@ -1,0 +1,9 @@
+D:\code\my_code\2020\my_azure\emCloudCMS\EM.Cloud.Core.SignalR\bin\Debug\netcoreapp3.1\EM.Cloud.Core.SignalR.deps.json
+D:\code\my_code\2020\my_azure\emCloudCMS\EM.Cloud.Core.SignalR\bin\Debug\netcoreapp3.1\EM.Cloud.Core.SignalR.dll
+D:\code\my_code\2020\my_azure\emCloudCMS\EM.Cloud.Core.SignalR\bin\Debug\netcoreapp3.1\EM.Cloud.Core.SignalR.pdb
+D:\code\my_code\2020\my_azure\emCloudCMS\EM.Cloud.Core.SignalR\obj\Debug\netcoreapp3.1\EM.Cloud.Core.SignalR.csprojAssemblyReference.cache
+D:\code\my_code\2020\my_azure\emCloudCMS\EM.Cloud.Core.SignalR\obj\Debug\netcoreapp3.1\EM.Cloud.Core.SignalR.csproj.CoreCompileInputs.cache
+D:\code\my_code\2020\my_azure\emCloudCMS\EM.Cloud.Core.SignalR\obj\Debug\netcoreapp3.1\EM.Cloud.Core.SignalR.AssemblyInfoInputs.cache
+D:\code\my_code\2020\my_azure\emCloudCMS\EM.Cloud.Core.SignalR\obj\Debug\netcoreapp3.1\EM.Cloud.Core.SignalR.AssemblyInfo.cs
+D:\code\my_code\2020\my_azure\emCloudCMS\EM.Cloud.Core.SignalR\obj\Debug\netcoreapp3.1\EM.Cloud.Core.SignalR.dll
+D:\code\my_code\2020\my_azure\emCloudCMS\EM.Cloud.Core.SignalR\obj\Debug\netcoreapp3.1\EM.Cloud.Core.SignalR.pdb

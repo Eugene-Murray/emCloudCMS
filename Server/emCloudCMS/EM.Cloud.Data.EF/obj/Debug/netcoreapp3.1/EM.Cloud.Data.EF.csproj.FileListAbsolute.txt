@@ -1,0 +1,9 @@
+D:\code\my_code\2020\my_azure\emCloudCMS\EM.Cloud.Data.EF\bin\Debug\netcoreapp3.1\EM.Cloud.Data.EF.deps.json
+D:\code\my_code\2020\my_azure\emCloudCMS\EM.Cloud.Data.EF\bin\Debug\netcoreapp3.1\EM.Cloud.Data.EF.dll
+D:\code\my_code\2020\my_azure\emCloudCMS\EM.Cloud.Data.EF\bin\Debug\netcoreapp3.1\EM.Cloud.Data.EF.pdb
+D:\code\my_code\2020\my_azure\emCloudCMS\EM.Cloud.Data.EF\obj\Debug\netcoreapp3.1\EM.Cloud.Data.EF.csprojAssemblyReference.cache
+D:\code\my_code\2020\my_azure\emCloudCMS\EM.Cloud.Data.EF\obj\Debug\netcoreapp3.1\EM.Cloud.Data.EF.csproj.CoreCompileInputs.cache
+D:\code\my_code\2020\my_azure\emCloudCMS\EM.Cloud.Data.EF\obj\Debug\netcoreapp3.1\EM.Cloud.Data.EF.AssemblyInfoInputs.cache
+D:\code\my_code\2020\my_azure\emCloudCMS\EM.Cloud.Data.EF\obj\Debug\netcoreapp3.1\EM.Cloud.Data.EF.AssemblyInfo.cs
+D:\code\my_code\2020\my_azure\emCloudCMS\EM.Cloud.Data.EF\obj\Debug\netcoreapp3.1\EM.Cloud.Data.EF.dll
+D:\code\my_code\2020\my_azure\emCloudCMS\EM.Cloud.Data.EF\obj\Debug\netcoreapp3.1\EM.Cloud.Data.EF.pdb

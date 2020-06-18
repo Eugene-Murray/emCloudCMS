@@ -1,0 +1,9 @@
+D:\code\my_code\2020\my_azure\emCloudCMS\EM.Cloud.Data.Entities\bin\Debug\netcoreapp3.1\EM.Cloud.Data.Entities.deps.json
+D:\code\my_code\2020\my_azure\emCloudCMS\EM.Cloud.Data.Entities\bin\Debug\netcoreapp3.1\EM.Cloud.Data.Entities.dll
+D:\code\my_code\2020\my_azure\emCloudCMS\EM.Cloud.Data.Entities\bin\Debug\netcoreapp3.1\EM.Cloud.Data.Entities.pdb
+D:\code\my_code\2020\my_azure\emCloudCMS\EM.Cloud.Data.Entities\obj\Debug\netcoreapp3.1\EM.Cloud.Data.Entities.csprojAssemblyReference.cache
+D:\code\my_code\2020\my_azure\emCloudCMS\EM.Cloud.Data.Entities\obj\Debug\netcoreapp3.1\EM.Cloud.Data.Entities.csproj.CoreCompileInputs.cache
+D:\code\my_code\2020\my_azure\emCloudCMS\EM.Cloud.Data.Entities\obj\Debug\netcoreapp3.1\EM.Cloud.Data.Entities.AssemblyInfoInputs.cache
+D:\code\my_code\2020\my_azure\emCloudCMS\EM.Cloud.Data.Entities\obj\Debug\netcoreapp3.1\EM.Cloud.Data.Entities.AssemblyInfo.cs
+D:\code\my_code\2020\my_azure\emCloudCMS\EM.Cloud.Data.Entities\obj\Debug\netcoreapp3.1\EM.Cloud.Data.Entities.dll
+D:\code\my_code\2020\my_azure\emCloudCMS\EM.Cloud.Data.Entities\obj\Debug\netcoreapp3.1\EM.Cloud.Data.Entities.pdb

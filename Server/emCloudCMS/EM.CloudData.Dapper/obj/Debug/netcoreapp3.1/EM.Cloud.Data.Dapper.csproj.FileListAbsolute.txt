@@ -1,0 +1,9 @@
+D:\code\my_code\2020\my_azure\emCloudCMS\EM.CloudData.Dapper\bin\Debug\netcoreapp3.1\EM.Cloud.Data.Dapper.deps.json
+D:\code\my_code\2020\my_azure\emCloudCMS\EM.CloudData.Dapper\bin\Debug\netcoreapp3.1\EM.Cloud.Data.Dapper.dll
+D:\code\my_code\2020\my_azure\emCloudCMS\EM.CloudData.Dapper\bin\Debug\netcoreapp3.1\EM.Cloud.Data.Dapper.pdb
+D:\code\my_code\2020\my_azure\emCloudCMS\EM.CloudData.Dapper\obj\Debug\netcoreapp3.1\EM.Cloud.Data.Dapper.csprojAssemblyReference.cache
+D:\code\my_code\2020\my_azure\emCloudCMS\EM.CloudData.Dapper\obj\Debug\netcoreapp3.1\EM.Cloud.Data.Dapper.csproj.CoreCompileInputs.cache
+D:\code\my_code\2020\my_azure\emCloudCMS\EM.CloudData.Dapper\obj\Debug\netcoreapp3.1\EM.Cloud.Data.Dapper.AssemblyInfoInputs.cache
+D:\code\my_code\2020\my_azure\emCloudCMS\EM.CloudData.Dapper\obj\Debug\netcoreapp3.1\EM.Cloud.Data.Dapper.AssemblyInfo.cs
+D:\code\my_code\2020\my_azure\emCloudCMS\EM.CloudData.Dapper\obj\Debug\netcoreapp3.1\EM.Cloud.Data.Dapper.dll
+D:\code\my_code\2020\my_azure\emCloudCMS\EM.CloudData.Dapper\obj\Debug\netcoreapp3.1\EM.Cloud.Data.Dapper.pdb
