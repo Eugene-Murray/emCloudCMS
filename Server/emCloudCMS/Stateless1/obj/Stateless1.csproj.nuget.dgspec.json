@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\code\\my_code\\2020\\my_azure\\emCloudCMS\\Stateless1\\Stateless1.csproj": {}
+    "D:\\code\\my_code\\2020\\emCloudCMS\\Server\\emCloudCMS\\Stateless1\\Stateless1.csproj": {}
   },
   "projects": {
-    "D:\\code\\my_code\\2020\\my_azure\\emCloudCMS\\Stateless1\\Stateless1.csproj": {
+    "D:\\code\\my_code\\2020\\emCloudCMS\\Server\\emCloudCMS\\Stateless1\\Stateless1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\my_code\\2020\\my_azure\\emCloudCMS\\Stateless1\\Stateless1.csproj",
+        "projectUniqueName": "D:\\code\\my_code\\2020\\emCloudCMS\\Server\\emCloudCMS\\Stateless1\\Stateless1.csproj",
         "projectName": "Stateless1",
-        "projectPath": "D:\\code\\my_code\\2020\\my_azure\\emCloudCMS\\Stateless1\\Stateless1.csproj",
+        "projectPath": "D:\\code\\my_code\\2020\\emCloudCMS\\Server\\emCloudCMS\\Stateless1\\Stateless1.csproj",
         "packagesPath": "C:\\Users\\Eugene\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\my_code\\2020\\my_azure\\emCloudCMS\\Stateless1\\obj\\",
+        "outputPath": "D:\\code\\my_code\\2020\\emCloudCMS\\Server\\emCloudCMS\\Stateless1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -77,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

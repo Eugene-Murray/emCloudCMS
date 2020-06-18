@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UIwWgdhUa5/lytiKYY5mV/rlE+SeyPNd4ZjcaREJebeLw5uXTAt5UPFn437oIVIhNNdHkZoDAICuNY6GXFh4/g==",
+  "dgSpecHash": "vEE/Ziu7O2ULqTUppSJCacGJGuGufqvax5ow3qCOoXVXas8tPnNncIcHod7Vveuf6jWQmOfVrDbDwRvspjXYDA==",
   "success": true,
-  "projectFilePath": "D:\\code\\my_code\\2020\\my_azure\\emCloudCMS\\EM.Cloud.Data.YesSql\\EM.Cloud.Data.YesSql.csproj",
+  "projectFilePath": "D:\\code\\my_code\\2020\\emCloudCMS\\Server\\emCloudCMS\\EM.Cloud.Data.YesSql\\EM.Cloud.Data.YesSql.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kZMT25uhNZv1AH84uA1U+Tzqg7b3FvLeAUivsNAXie9oTMcASR7KBGQ1cJ92PM5ByrfhZB0IL846EryPRVwwCQ==",
+  "dgSpecHash": "N+V2cFv9racGwW5uCFnKxQSvuUfnvcXbwpFlbN6THXyGrpIUdchE9gUL3vc1qhcDUzlMXTEJMUvYAcUvCarOzg==",
   "success": true,
-  "projectFilePath": "D:\\code\\my_code\\2020\\my_azure\\emCloudCMS\\EM.Cloud.CMS.API\\EM.Cloud.CMS.API.csproj",
+  "projectFilePath": "D:\\code\\my_code\\2020\\emCloudCMS\\Server\\emCloudCMS\\EM.Cloud.CMS.API\\EM.Cloud.CMS.API.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\code\\my_code\\2020\\my_azure\\emCloudCMS\\EM.Cloud.Data.Entities\\EM.Cloud.Data.Entities.csproj",
+      "projectUniqueName": "D:\\code\\my_code\\2020\\emCloudCMS\\Server\\emCloudCMS\\EM.Cloud.Data.Entities\\EM.Cloud.Data.Entities.csproj",
       "projectName": "EM.Cloud.Data.Entities",
-      "projectPath": "D:\\code\\my_code\\2020\\my_azure\\emCloudCMS\\EM.Cloud.Data.Entities\\EM.Cloud.Data.Entities.csproj",
+      "projectPath": "D:\\code\\my_code\\2020\\emCloudCMS\\Server\\emCloudCMS\\EM.Cloud.Data.Entities\\EM.Cloud.Data.Entities.csproj",
       "packagesPath": "C:\\Users\\Eugene\\.nuget\\packages\\",
-      "outputPath": "D:\\code\\my_code\\2020\\my_azure\\emCloudCMS\\EM.Cloud.Data.Entities\\obj\\",
+      "outputPath": "D:\\code\\my_code\\2020\\emCloudCMS\\Server\\emCloudCMS\\EM.Cloud.Data.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

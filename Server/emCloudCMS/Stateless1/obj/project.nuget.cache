@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oirX1kHX0eK16orsmSVSbNOkQJktfSIcg+1tCZd9dbocN29T8Z2Axb/z2friV51KUJawrAfO8RjTw3uwZxAGSQ==",
+  "dgSpecHash": "rf/dQuIydRuUbTkxlbNQK4b4AJnT18echef3t3OlKkweVbnfhwJXAISzlIqdQIZhcMtB62TSZrezAZEpM2ILgw==",
   "success": true,
-  "projectFilePath": "D:\\code\\my_code\\2020\\my_azure\\emCloudCMS\\Stateless1\\Stateless1.csproj",
+  "projectFilePath": "D:\\code\\my_code\\2020\\emCloudCMS\\Server\\emCloudCMS\\Stateless1\\Stateless1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eugene\\.nuget\\packages\\microsoft.servicefabric\\7.1.416\\microsoft.servicefabric.7.1.416.nupkg.sha512",
     "C:\\Users\\Eugene\\.nuget\\packages\\microsoft.servicefabric.data\\4.1.416\\microsoft.servicefabric.data.4.1.416.nupkg.sha512",

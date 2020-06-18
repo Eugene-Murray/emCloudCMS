@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8MV6soZjrwQNzS/yyq+KKuaE+fLjrtNBGkUiRzYTH9Ur6fBdsVDOB87op6NUsaydQ8w/icPtdHSb8Yd3sn380Q==",
+  "dgSpecHash": "H+/h1KFhV9DL/pKmaGP97nwYfpmZc9vM5q+K25EsKBaVLWyZYap3xxxCOKAKg/pU6Xc/Xmqxk05sr/SXWiH/KQ==",
   "success": true,
-  "projectFilePath": "D:\\code\\my_code\\2020\\my_azure\\emCloudCMS\\EM.Cloud.Data.EF\\EM.Cloud.Data.EF.csproj",
+  "projectFilePath": "D:\\code\\my_code\\2020\\emCloudCMS\\Server\\emCloudCMS\\EM.Cloud.Data.EF\\EM.Cloud.Data.EF.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
