@@ -1,8 +1,65 @@
 {
   "version": 2,
-  "dgSpecHash": "N+V2cFv9racGwW5uCFnKxQSvuUfnvcXbwpFlbN6THXyGrpIUdchE9gUL3vc1qhcDUzlMXTEJMUvYAcUvCarOzg==",
+  "dgSpecHash": "I07LTSIp+4paWJfVNiYFeA9aBLhHYmPM90vKwOVD/VHvQaSrk1DT0h9LmBF+fLqopoA3L6jFoJaiWwg3oAGvIQ==",
   "success": true,
   "projectFilePath": "D:\\code\\my_code\\2020\\emCloudCMS\\Server\\emCloudCMS\\EM.Cloud.CMS.API\\EM.Cloud.CMS.API.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\Eugene\\.nuget\\packages\\fluentnhibernate\\1.3.0.727\\fluentnhibernate.1.3.0.727.nupkg.sha512",
+    "C:\\Users\\Eugene\\.nuget\\packages\\iesi.collections\\3.2.0.4000\\iesi.collections.3.2.0.4000.nupkg.sha512",
+    "C:\\Users\\Eugene\\.nuget\\packages\\newtonsoft.json\\4.5.7\\newtonsoft.json.4.5.7.nupkg.sha512",
+    "C:\\Users\\Eugene\\.nuget\\packages\\nhibernate\\3.3.0.4000\\nhibernate.3.3.0.4000.nupkg.sha512",
+    "C:\\Users\\Eugene\\.nuget\\packages\\yessql.core\\0.4.1\\yessql.core.0.4.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'FluentNHibernate 1.3.0.727' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "FluentNHibernate",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Iesi.Collections 3.2.0.4000' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Iesi.Collections",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Newtonsoft.Json 4.5.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'NHibernate 3.3.0.4000' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "NHibernate",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'YesSql.Core 0.4.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "YesSql.Core",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

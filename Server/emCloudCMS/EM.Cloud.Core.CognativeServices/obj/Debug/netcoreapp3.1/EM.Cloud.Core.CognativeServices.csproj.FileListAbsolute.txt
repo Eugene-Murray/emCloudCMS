@@ -1,0 +1,8 @@
+D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Core.CognativeServices\bin\Debug\netcoreapp3.1\EM.Cloud.Core.CognativeServices.deps.json
+D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Core.CognativeServices\bin\Debug\netcoreapp3.1\EM.Cloud.Core.CognativeServices.dll
+D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Core.CognativeServices\bin\Debug\netcoreapp3.1\EM.Cloud.Core.CognativeServices.pdb
+D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Core.CognativeServices\obj\Debug\netcoreapp3.1\EM.Cloud.Core.CognativeServices.AssemblyInfoInputs.cache
+D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Core.CognativeServices\obj\Debug\netcoreapp3.1\EM.Cloud.Core.CognativeServices.AssemblyInfo.cs
+D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Core.CognativeServices\obj\Debug\netcoreapp3.1\EM.Cloud.Core.CognativeServices.csproj.CoreCompileInputs.cache
+D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Core.CognativeServices\obj\Debug\netcoreapp3.1\EM.Cloud.Core.CognativeServices.dll
+D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Core.CognativeServices\obj\Debug\netcoreapp3.1\EM.Cloud.Core.CognativeServices.pdb

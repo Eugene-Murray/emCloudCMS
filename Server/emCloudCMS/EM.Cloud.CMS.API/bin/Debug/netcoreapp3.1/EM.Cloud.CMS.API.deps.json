@@ -24,6 +24,7 @@
     ".NETCoreApp,Version=v3.1": {
       "EM.Cloud.CMS.API/1.0.0": {
         "dependencies": {
+          "YesSql.Core": "0.4.1",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "3.1.0.0",
@@ -312,6 +313,71 @@
         },
         "compile": {
           "EM.Cloud.CMS.API.dll": {}
+        }
+      },
+      "FluentNHibernate/1.3.0.727": {
+        "dependencies": {
+          "NHibernate": "3.3.0.4000"
+        },
+        "runtime": {
+          "lib/FluentNHibernate.dll": {
+            "assemblyVersion": "1.3.0.727",
+            "fileVersion": "1.3.0.727"
+          }
+        },
+        "compile": {
+          "lib/FluentNHibernate.dll": {}
+        }
+      },
+      "Iesi.Collections/3.2.0.4000": {
+        "runtime": {
+          "lib/Net35/Iesi.Collections.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "3.2.0.4000"
+          }
+        },
+        "compile": {
+          "lib/Net35/Iesi.Collections.dll": {}
+        }
+      },
+      "Newtonsoft.Json/4.5.7": {
+        "runtime": {
+          "lib/net40/Newtonsoft.Json.dll": {
+            "assemblyVersion": "4.5.0.0",
+            "fileVersion": "4.5.7.15008"
+          }
+        },
+        "compile": {
+          "lib/net40/Newtonsoft.Json.dll": {}
+        }
+      },
+      "NHibernate/3.3.0.4000": {
+        "dependencies": {
+          "Iesi.Collections": "3.2.0.4000"
+        },
+        "runtime": {
+          "lib/Net35/NHibernate.dll": {
+            "assemblyVersion": "3.3.0.4000",
+            "fileVersion": "3.3.0.4000"
+          }
+        },
+        "compile": {
+          "lib/Net35/NHibernate.dll": {}
+        }
+      },
+      "YesSql.Core/0.4.1": {
+        "dependencies": {
+          "FluentNHibernate": "1.3.0.727",
+          "Newtonsoft.Json": "4.5.7"
+        },
+        "runtime": {
+          "lib/net40/YesSql.Core.dll": {
+            "assemblyVersion": "0.4.1.0",
+            "fileVersion": "1.0.0.0"
+          }
+        },
+        "compile": {
+          "lib/net40/YesSql.Core.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -2013,6 +2079,41 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "FluentNHibernate/1.3.0.727": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0ZeItX8wsX16xOfhheCoZvWoAiG1KB7xhUiI79GAgy2RASoo0Y6ewAcDEnvIBD1cJ3bjjgjSa3oIQAMtomSFWg==",
+      "path": "fluentnhibernate/1.3.0.727",
+      "hashPath": "fluentnhibernate.1.3.0.727.nupkg.sha512"
+    },
+    "Iesi.Collections/3.2.0.4000": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rFxBPA45TVgSCAN3LFZq67KwXXlgSvf0BErITSoY8HmZsnTrcsfi6xs78H39xVt/MnVasF8KgRTNLyi9S+BM3w==",
+      "path": "iesi.collections/3.2.0.4000",
+      "hashPath": "iesi.collections.3.2.0.4000.nupkg.sha512"
+    },
+    "Newtonsoft.Json/4.5.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VbBNx0ygN1ZgkyBTSd1B7D7wxKNtzhvKW97YMXDdwE2maquzMMNVOGcXOM24XZR+pzOuljDL8XQsxnc5sA7Cng==",
+      "path": "newtonsoft.json/4.5.7",
+      "hashPath": "newtonsoft.json.4.5.7.nupkg.sha512"
+    },
+    "NHibernate/3.3.0.4000": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-U9RZtB2cBOy7L95KF+Ge+/UbV70COHQ0H6Q8MR3upMjwbDrFt/Kc7gUfvG7k0u955dsc1tgHvHuyjTOlx42Olw==",
+      "path": "nhibernate/3.3.0.4000",
+      "hashPath": "nhibernate.3.3.0.4000.nupkg.sha512"
+    },
+    "YesSql.Core/0.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Gtm3xo9awtASA3oPJq6400ytz/0rBr0/NXalyAa2BZpwm/B/VpQ5G0TT2FIs3MY3bGH4ZSsfPbM7VdQXIZIYBw==",
+      "path": "yessql.core/0.4.1",
+      "hashPath": "yessql.core.0.4.1.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
       "type": "referenceassembly",

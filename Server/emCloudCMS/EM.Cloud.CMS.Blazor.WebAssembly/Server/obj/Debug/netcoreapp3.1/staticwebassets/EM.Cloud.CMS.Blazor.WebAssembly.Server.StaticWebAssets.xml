@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.CMS.Blazor.WebAssembly\Client\wwwroot\" />
+  <ContentRoot BasePath="/" Path="D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.CMS.Blazor.WebAssembly\Client\bin\Debug\netstandard2.1\wwwroot\" />
+</StaticWebAssets>

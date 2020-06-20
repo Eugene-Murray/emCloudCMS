@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>EM.Cloud.Data.DataConsole</AssemblyName>
+    <RootNamespace>EM.Cloud.Data.DataConsole</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EM.Cloud.Data.EF\EM.Cloud.Data.EF.csproj" />
+    <ProjectReference Include="..\EM.Cloud.Data.Entities\EM.Cloud.Data.Entities.csproj" />
+    <ProjectReference Include="..\EM.CloudData.Dapper\EM.Cloud.Data.Dapper.csproj" />
+  </ItemGroup>
+
+</Project>

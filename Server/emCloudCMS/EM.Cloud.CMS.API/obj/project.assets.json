@@ -1,11 +1,201 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "FluentNHibernate/1.3.0.727": {
+        "type": "package",
+        "dependencies": {
+          "NHibernate": "3.3.0.4000"
+        },
+        "compile": {
+          "lib/FluentNHibernate.dll": {}
+        },
+        "runtime": {
+          "lib/FluentNHibernate.dll": {}
+        }
+      },
+      "Iesi.Collections/3.2.0.4000": {
+        "type": "package",
+        "compile": {
+          "lib/Net35/Iesi.Collections.dll": {}
+        },
+        "runtime": {
+          "lib/Net35/Iesi.Collections.dll": {}
+        }
+      },
+      "Newtonsoft.Json/4.5.7": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Newtonsoft.Json.dll": {}
+        }
+      },
+      "NHibernate/3.3.0.4000": {
+        "type": "package",
+        "dependencies": {
+          "Iesi.Collections": "3.2.0.4000"
+        },
+        "compile": {
+          "lib/Net35/NHibernate.dll": {}
+        },
+        "runtime": {
+          "lib/Net35/NHibernate.dll": {}
+        }
+      },
+      "YesSql.Core/0.4.1": {
+        "type": "package",
+        "dependencies": {
+          "FluentNHibernate": "1.3.0.727",
+          "Newtonsoft.Json": "4.5.7"
+        },
+        "compile": {
+          "lib/net40/YesSql.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net40/YesSql.Core.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "FluentNHibernate/1.3.0.727": {
+      "sha512": "0ZeItX8wsX16xOfhheCoZvWoAiG1KB7xhUiI79GAgy2RASoo0Y6ewAcDEnvIBD1cJ3bjjgjSa3oIQAMtomSFWg==",
+      "type": "package",
+      "path": "fluentnhibernate/1.3.0.727",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "fluentnhibernate.1.3.0.727.nupkg.sha512",
+        "fluentnhibernate.nuspec",
+        "lib/FluentNHibernate.XML",
+        "lib/FluentNHibernate.dll"
+      ]
+    },
+    "Iesi.Collections/3.2.0.4000": {
+      "sha512": "rFxBPA45TVgSCAN3LFZq67KwXXlgSvf0BErITSoY8HmZsnTrcsfi6xs78H39xVt/MnVasF8KgRTNLyi9S+BM3w==",
+      "type": "package",
+      "path": "iesi.collections/3.2.0.4000",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "iesi.collections.3.2.0.4000.nupkg.sha512",
+        "iesi.collections.nuspec",
+        "lib/Net35/Iesi.Collections.dll",
+        "lib/Net35/Iesi.Collections.xml"
+      ]
+    },
+    "Newtonsoft.Json/4.5.7": {
+      "sha512": "VbBNx0ygN1ZgkyBTSd1B7D7wxKNtzhvKW97YMXDdwE2maquzMMNVOGcXOM24XZR+pzOuljDL8XQsxnc5sA7Cng==",
+      "type": "package",
+      "path": "newtonsoft.json/4.5.7",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/sl3-wp/Newtonsoft.Json.dll",
+        "lib/sl3-wp/Newtonsoft.Json.xml",
+        "lib/sl4-windowsphone71/Newtonsoft.Json.dll",
+        "lib/sl4-windowsphone71/Newtonsoft.Json.xml",
+        "lib/sl4/Newtonsoft.Json.dll",
+        "lib/sl4/Newtonsoft.Json.xml",
+        "lib/winrt45/Newtonsoft.Json.dll",
+        "lib/winrt45/Newtonsoft.Json.xml",
+        "newtonsoft.json.4.5.7.nupkg.sha512",
+        "newtonsoft.json.nuspec"
+      ]
+    },
+    "NHibernate/3.3.0.4000": {
+      "sha512": "U9RZtB2cBOy7L95KF+Ge+/UbV70COHQ0H6Q8MR3upMjwbDrFt/Kc7gUfvG7k0u955dsc1tgHvHuyjTOlx42Olw==",
+      "type": "package",
+      "path": "nhibernate/3.3.0.4000",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ConfigurationTemplates/FireBird.cfg.xml",
+        "ConfigurationTemplates/MSSQL.cfg.xml",
+        "ConfigurationTemplates/MySql.cfg.xml",
+        "ConfigurationTemplates/Oracle.cfg.xml",
+        "ConfigurationTemplates/PostgreSQL.cfg.xml",
+        "ConfigurationTemplates/SQLite.cfg.xml",
+        "ConfigurationTemplates/SybaseASE.cfg.xml",
+        "ConfigurationTemplates/SybaseSQLAnywhere.cfg.xml",
+        "NHibernate.license.txt",
+        "NHibernate.readme.html",
+        "NHibernate.releasenotes.txt",
+        "lib/Net35/NHibernate.dll",
+        "lib/Net35/NHibernate.xml",
+        "nhibernate-configuration.xsd",
+        "nhibernate-mapping.xsd",
+        "nhibernate.3.3.0.4000.nupkg.sha512",
+        "nhibernate.nuspec"
+      ]
+    },
+    "YesSql.Core/0.4.1": {
+      "sha512": "Gtm3xo9awtASA3oPJq6400ytz/0rBr0/NXalyAa2BZpwm/B/VpQ5G0TT2FIs3MY3bGH4ZSsfPbM7VdQXIZIYBw==",
+      "type": "package",
+      "path": "yessql.core/0.4.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/YesSql.Core.dll",
+        "lib/net40/YesSql.Core.pdb",
+        "src/Data/DefaultIdentifierFactory.cs",
+        "src/Data/IIdAccessor.cs",
+        "src/Data/IIdentifierFactory.cs",
+        "src/Data/MapState.cs",
+        "src/Data/Mappings/DocumentAlteration.cs",
+        "src/Data/Mappings/DocumentTypeSource.cs",
+        "src/Data/Mappings/IndexAlteration.cs",
+        "src/Data/Mappings/IndexTypeSource.cs",
+        "src/Data/Mappings/IndexedAttribute.cs",
+        "src/Data/Mappings/StringLengthAttribute.cs",
+        "src/Data/Mappings/StringMaxLengthAttribute.cs",
+        "src/Data/Models/Document.cs",
+        "src/Data/MsSqlCeConfiguration.cs",
+        "src/Data/QueryExtensions.cs",
+        "src/Data/Session.cs",
+        "src/Data/Store.cs",
+        "src/Indexes/DescribeContext.cs",
+        "src/Indexes/DescribeFor.cs",
+        "src/Indexes/HasDocumentIndex.cs",
+        "src/Indexes/HasDocumentsIndex.cs",
+        "src/Indexes/IIndex.cs",
+        "src/Indexes/IIndexProvider.cs",
+        "src/Indexes/Index.cs",
+        "src/Indexes/IndexDescriptor.cs",
+        "src/Indexes/MapIndex.cs",
+        "src/Indexes/ReduceIndex.cs",
+        "src/Properties/AssemblyInfo.cs",
+        "src/Query/DefaultQuery.cs",
+        "src/Query/IQuery.cs",
+        "src/Serialization/IDocumentSerializer.cs",
+        "src/Serialization/IDocumentSerializerFactory.cs",
+        "src/Serialization/JSonNetSerializer.cs",
+        "src/Serialization/JSonSerializer.cs",
+        "src/Serialization/TypeExtensions.cs",
+        "src/Services/ISession.cs",
+        "src/Services/IStore.cs",
+        "src/Sharding/IShardSelectionStrategy.cs",
+        "src/Sharding/IShardStrategy.cs",
+        "src/Sharding/IShardStrategyFactory.cs",
+        "src/Sharding/ShardStrategyImpl.cs",
+        "src/Sharding/ShardingSession.cs",
+        "yessql.core.0.4.1.nupkg.sha512",
+        "yessql.core.nuspec"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "YesSql.Core >= 0.4.1"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Eugene\\.nuget\\packages\\": {},
@@ -50,6 +240,12 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "dependencies": {
+          "YesSql.Core": {
+            "target": "Package",
+            "version": "[0.4.1, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
@@ -71,5 +267,57 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'FluentNHibernate 1.3.0.727' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "FluentNHibernate",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Iesi.Collections 3.2.0.4000' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Iesi.Collections",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Newtonsoft.Json 4.5.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'NHibernate 3.3.0.4000' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "NHibernate",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'YesSql.Core 0.4.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "YesSql.Core",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

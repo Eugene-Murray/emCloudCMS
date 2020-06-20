@@ -1,0 +1,8 @@
+D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Core.TPL\bin\Debug\netcoreapp3.1\EM.Cloud.Core.TPL.deps.json
+D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Core.TPL\bin\Debug\netcoreapp3.1\EM.Cloud.Core.TPL.dll
+D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Core.TPL\bin\Debug\netcoreapp3.1\EM.Cloud.Core.TPL.pdb
+D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Core.TPL\obj\Debug\netcoreapp3.1\EM.Cloud.Core.TPL.AssemblyInfoInputs.cache
+D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Core.TPL\obj\Debug\netcoreapp3.1\EM.Cloud.Core.TPL.AssemblyInfo.cs
+D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Core.TPL\obj\Debug\netcoreapp3.1\EM.Cloud.Core.TPL.csproj.CoreCompileInputs.cache
+D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Core.TPL\obj\Debug\netcoreapp3.1\EM.Cloud.Core.TPL.dll
+D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Core.TPL\obj\Debug\netcoreapp3.1\EM.Cloud.Core.TPL.pdb

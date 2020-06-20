@@ -1,0 +1,9 @@
+D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.CMS.Blazor.WebAssembly\Shared\bin\Debug\netstandard2.1\EM.Cloud.CMS.Blazor.WebAssembly.Shared.deps.json
+D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.CMS.Blazor.WebAssembly\Shared\bin\Debug\netstandard2.1\EM.Cloud.CMS.Blazor.WebAssembly.Shared.dll
+D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.CMS.Blazor.WebAssembly\Shared\bin\Debug\netstandard2.1\EM.Cloud.CMS.Blazor.WebAssembly.Shared.pdb
+D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.CMS.Blazor.WebAssembly\Shared\obj\Debug\netstandard2.1\EM.Cloud.CMS.Blazor.WebAssembly.Shared.csprojAssemblyReference.cache
+D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.CMS.Blazor.WebAssembly\Shared\obj\Debug\netstandard2.1\EM.Cloud.CMS.Blazor.WebAssembly.Shared.AssemblyInfoInputs.cache
+D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.CMS.Blazor.WebAssembly\Shared\obj\Debug\netstandard2.1\EM.Cloud.CMS.Blazor.WebAssembly.Shared.AssemblyInfo.cs
+D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.CMS.Blazor.WebAssembly\Shared\obj\Debug\netstandard2.1\EM.Cloud.CMS.Blazor.WebAssembly.Shared.csproj.CoreCompileInputs.cache
+D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.CMS.Blazor.WebAssembly\Shared\obj\Debug\netstandard2.1\EM.Cloud.CMS.Blazor.WebAssembly.Shared.dll
+D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.CMS.Blazor.WebAssembly\Shared\obj\Debug\netstandard2.1\EM.Cloud.CMS.Blazor.WebAssembly.Shared.pdb

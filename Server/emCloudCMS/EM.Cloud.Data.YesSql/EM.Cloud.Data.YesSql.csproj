@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="YesSql.Core" Version="0.4.1" />
+  </ItemGroup>
+
 </Project>

@@ -7,3 +7,12 @@ D:\code\my_code\2020\my_azure\emCloudCMS\EM.Cloud.Data.YesSql\obj\Debug\netcorea
 D:\code\my_code\2020\my_azure\emCloudCMS\EM.Cloud.Data.YesSql\obj\Debug\netcoreapp3.1\EM.Cloud.Data.YesSql.AssemblyInfo.cs
 D:\code\my_code\2020\my_azure\emCloudCMS\EM.Cloud.Data.YesSql\obj\Debug\netcoreapp3.1\EM.Cloud.Data.YesSql.dll
 D:\code\my_code\2020\my_azure\emCloudCMS\EM.Cloud.Data.YesSql\obj\Debug\netcoreapp3.1\EM.Cloud.Data.YesSql.pdb
+D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Data.YesSql\bin\Debug\netcoreapp3.1\EM.Cloud.Data.YesSql.deps.json
+D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Data.YesSql\bin\Debug\netcoreapp3.1\EM.Cloud.Data.YesSql.dll
+D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Data.YesSql\bin\Debug\netcoreapp3.1\EM.Cloud.Data.YesSql.pdb
+D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Data.YesSql\obj\Debug\netcoreapp3.1\EM.Cloud.Data.YesSql.csprojAssemblyReference.cache
+D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Data.YesSql\obj\Debug\netcoreapp3.1\EM.Cloud.Data.YesSql.AssemblyInfoInputs.cache
+D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Data.YesSql\obj\Debug\netcoreapp3.1\EM.Cloud.Data.YesSql.AssemblyInfo.cs
+D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Data.YesSql\obj\Debug\netcoreapp3.1\EM.Cloud.Data.YesSql.dll
+D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Data.YesSql\obj\Debug\netcoreapp3.1\EM.Cloud.Data.YesSql.pdb
+D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Data.YesSql\obj\Debug\netcoreapp3.1\EM.Cloud.Data.YesSql.csproj.CoreCompileInputs.cache
