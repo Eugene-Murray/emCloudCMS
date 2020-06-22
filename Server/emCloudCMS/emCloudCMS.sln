@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EM.Cloud.CMS.Blazor.WebAsse
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EM.Cloud.Data.Console", "EM.Cloud.Data.Console\EM.Cloud.Data.Console.csproj", "{88A8A6FE-B678-4DC9-8757-5B4E915B19D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EM.Cloud.CMS", "EM.Cloud.CMS\EM.Cloud.CMS.csproj", "{1396D77D-08C2-4933-9B23-297095C37E31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -235,6 +237,14 @@ Global
 		{88A8A6FE-B678-4DC9-8757-5B4E915B19D0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{88A8A6FE-B678-4DC9-8757-5B4E915B19D0}.Release|x64.ActiveCfg = Release|Any CPU
 		{88A8A6FE-B678-4DC9-8757-5B4E915B19D0}.Release|x64.Build.0 = Release|Any CPU
+		{1396D77D-08C2-4933-9B23-297095C37E31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1396D77D-08C2-4933-9B23-297095C37E31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1396D77D-08C2-4933-9B23-297095C37E31}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1396D77D-08C2-4933-9B23-297095C37E31}.Debug|x64.Build.0 = Debug|Any CPU
+		{1396D77D-08C2-4933-9B23-297095C37E31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1396D77D-08C2-4933-9B23-297095C37E31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1396D77D-08C2-4933-9B23-297095C37E31}.Release|x64.ActiveCfg = Release|Any CPU
+		{1396D77D-08C2-4933-9B23-297095C37E31}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

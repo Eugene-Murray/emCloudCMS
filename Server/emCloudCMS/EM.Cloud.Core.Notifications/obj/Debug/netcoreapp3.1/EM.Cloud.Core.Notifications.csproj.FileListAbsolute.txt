@@ -10,7 +10,6 @@ D:\code\my_code\2020\my_azure\emCloudCMS\EM.Cloud.Core.Notifications\obj\Debug\n
 D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Core.Notifications\bin\Debug\netcoreapp3.1\EM.Cloud.Core.Notifications.deps.json
 D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Core.Notifications\bin\Debug\netcoreapp3.1\EM.Cloud.Core.Notifications.dll
 D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Core.Notifications\bin\Debug\netcoreapp3.1\EM.Cloud.Core.Notifications.pdb
-D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Core.Notifications\obj\Debug\netcoreapp3.1\EM.Cloud.Core.Notifications.csprojAssemblyReference.cache
 D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Core.Notifications\obj\Debug\netcoreapp3.1\EM.Cloud.Core.Notifications.AssemblyInfoInputs.cache
 D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Core.Notifications\obj\Debug\netcoreapp3.1\EM.Cloud.Core.Notifications.AssemblyInfo.cs
 D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Core.Notifications\obj\Debug\netcoreapp3.1\EM.Cloud.Core.Notifications.csproj.CoreCompileInputs.cache

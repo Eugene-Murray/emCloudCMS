@@ -9,7 +9,6 @@ D:\code\my_code\2020\my_azure\emCloudCMS\EM.Cloud.Core\obj\Debug\netcoreapp3.1\E
 D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Core\bin\Debug\netcoreapp3.1\EM.Cloud.Core.deps.json
 D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Core\bin\Debug\netcoreapp3.1\EM.Cloud.Core.dll
 D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Core\bin\Debug\netcoreapp3.1\EM.Cloud.Core.pdb
-D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Core\obj\Debug\netcoreapp3.1\EM.Cloud.Core.csprojAssemblyReference.cache
 D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Core\obj\Debug\netcoreapp3.1\EM.Cloud.Core.AssemblyInfoInputs.cache
 D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Core\obj\Debug\netcoreapp3.1\EM.Cloud.Core.AssemblyInfo.cs
 D:\code\my_code\2020\emCloudCMS\Server\emCloudCMS\EM.Cloud.Core\obj\Debug\netcoreapp3.1\EM.Cloud.Core.csproj.CoreCompileInputs.cache
